@@ -18,7 +18,6 @@
     "svelte": "^3.42.6",
     "tailwindcss": "^2.2.19"
   },
-  "type": "module",
   "devDependencies": {
     "@sveltejs/adapter-static": "^1.0.0-next.21"
   }
