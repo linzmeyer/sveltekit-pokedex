@@ -1,9 +1,9 @@
 <script>
-  import { envars } from '../../envars-public';
 </script>
 
 
 <div class="flex flex-col items-center">
+  <h2>This is a picture</h2>
   <img class="card-image logo-img1" src={`/img/context_logo1.png`} alt="context coding logo" />
 </div>
 
