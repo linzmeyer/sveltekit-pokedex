@@ -6,7 +6,8 @@
 
 <div class="flex flex-col items-center">
   <!-- <img class="card-image logo-img1" src={`${envars.PATH_TO_IMAGES}/context_logo1.png`} alt="context coding logo" /> -->
-  <img class="card-image logo-img1" src={`/static/img/context_logo1.png`} alt="context coding logo" />
+  <!-- <img class="card-image logo-img1" src={`/static/img/context_logo1.png`} alt="context coding logo" /> -->
+  <img class="card-image logo-img1" src={`https://upload.wikimedia.org/wikipedia/commons/7/7b/Orange-Whole-%26-Split.jpg`} alt="context coding logo" />
 </div>
 
 <div>
