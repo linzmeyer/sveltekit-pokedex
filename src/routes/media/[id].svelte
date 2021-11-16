@@ -10,8 +10,7 @@
 
 <div class="felx flex-col items-center spacy">
   <audio controls autoplay>
-    <source src="/media/aud/OOT_Arrow_Select_Ice.wav" type="audio/ogg">
-    <!-- <source src="/media/aud/" type="audio/mpeg"> -->
+    <source src="/media/aud/OOT_Arrow_Select_Fire.wav.wav" type="audio/wav">
   Your browser does not support the audio element.
   </audio>
 </div>
